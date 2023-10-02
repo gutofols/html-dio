@@ -1,0 +1,24 @@
+Aula voltada para formulários.
+
+
+Alguns exemplos de Tags mais usadas:
+
+Tag <form>
+Tag <input>
+Tag <checkbox> e <radio>
+Tag <button>
+Tag <select>
+Tag <textarea>
+----------------------------------------------------------------
+
+dentro dos TAG <form> temos alguns atributos, são eles:
+ - name="contato" 
+ - action="https://meusite.com.br/signup" 
+ 
+ - method="post"
+    Este atributo possiu duas possibilidaades, GET ou POST
+        Por GET: 
+            Joga as informações pela URL, mostrando os dados trafegados.
+        
+        Por POST:
+                é uma forma mais segura de trafegar os dados dos formulários.
