@@ -22,3 +22,31 @@ dentro dos TAG <form> temos alguns atributos, são eles:
         
         Por POST:
                 é uma forma mais segura de trafegar os dados dos formulários.
+
+ - target: Define por onde vai trafegar as informações
+
+ - autocomplite: (On / Off) 
+
+ - on*** (alguma coisa): Tudo que é evento, OnClick, onsubmit
+
+----------------------------------------------------------------
+
+Tag < input>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
